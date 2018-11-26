@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
-    "react-scripts": "2.1.1"
+    "delay": "^4.1.0",
+    "ramda": "^0.25.0",
+    "react": "16.7.0-alpha.0",
+    "react-dom": "16.7.0-alpha.0",
+    "react-loadingbar": "^0.0.1",
+    "react-progress": "^0.0.12",
+    "react-scripts": "2.1.1",
+    "react-spinners": "^0.4.7",
+    "shortid": "^2.2.13",
+    "styled-components": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
